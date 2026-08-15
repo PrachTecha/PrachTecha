@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pax!
 - 👀 I’m interested in data science, quantitative finance and probabilistic programming.
-- 🌱 I’m currently a PhD candidate at Karolinska Institute
+- 🌱 I’m currently a data scientist at Visa
 - 💞️ I’m looking to collaborate on projects involve the mentioned fields
 - 📫 You can reach me at `prach.techa@gmail.com`
 
